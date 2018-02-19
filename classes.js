@@ -19,7 +19,12 @@ var one = document.getElementById('one')
 }
 
 // CREATE FUNCTION two HERE
+function two () {
 
+var two = document.getElementById('two')
+two.classList.add('green')
+
+}
 // CREATE FUNCTION three HERE
 
 // CREATE FUNCTION makeVisible HERE
