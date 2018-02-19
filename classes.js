@@ -19,19 +19,21 @@ var one = document.getElementById('one')
 
 
 // CREATE FUNCTION two HERE
-
+function start ('makeVisible') {
 
 var two = document.getElementById('two')
 two.classList.add('green')
-
+}
 
 // CREATE FUNCTION three HERE
 
 
 var three = document.getElementById('three')
 three.classList.add('black')
-
+}
 // CREATE FUNCTION makeVisible HERE
+
+
 var invisible = document.getElementsByClassName('invisible')
 invisible.classList.add('visible')
 
