@@ -8,9 +8,9 @@ function start () {
   // one()
 
   // Your turn! Create a new function called `two`, then call it from here.
-}
 
-function {
+
+
   // First, we have to find the element:
 var one = document.getElementById('one')
 
