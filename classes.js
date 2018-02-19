@@ -16,10 +16,10 @@ var one = document.getElementById('one')
 
   // Next, we apply a new CSS class to it:
   one.classList.add('blue')
-}
+
 
 // CREATE FUNCTION two HERE
-function two () {
+
 
 var two = document.getElementById('two')
 two.classList.add('green')
