@@ -33,6 +33,6 @@ three.classList.add('black')
 }
 // CREATE FUNCTION makeVisible HERE
 function makeVisible() {
-    document.getElementById("invisible")
-    invisible.classList.add('block')
+    document.getElementById("invisible");
+    invisible.classList.add('red')
 }
