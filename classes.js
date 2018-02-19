@@ -30,9 +30,8 @@ two.classList.add('green')
 
 var three = document.getElementById('three')
 three.classList.add('black')
-}
+
 // CREATE FUNCTION makeVisible HERE
-function start ('makeVisible') {
 
 var invisible = document.getElementsByClassName('invisible')
 invisible.classList.add('visible')
