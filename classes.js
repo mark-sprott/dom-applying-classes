@@ -10,9 +10,9 @@ function start () {
   // Your turn! Create a new function called `two`, then call it from here.
 }
 
-function one {
+function one (){
   // First, we have to find the element:
-  var one = document.getElementById('one')
+document.getElementById('one')
 
   // Next, we apply a new CSS class to it:
   one.classList.add('blue')
