@@ -28,7 +28,7 @@ function two() {
 // CREATE FUNCTION three HERE
 function three() {
   var three = document.getElementById('three')
-  three.classList.add('pink')
+  three.classList.add('black')
 }
 // CREATE FUNCTION makeVisible HERE
 function makeVisible() {
