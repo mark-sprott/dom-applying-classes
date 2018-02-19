@@ -32,7 +32,7 @@ var three = document.getElementById('three')
 three.classList.add('black')
 
 // CREATE FUNCTION makeVisible HERE
-var four = document.getElementsByClassName('invisible')
-four.classList.add('visible')
+var invisible = document.getElementsByClassName('invisible')
+invisible.classList.add('visible')
 
 }
